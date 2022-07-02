@@ -1,7 +1,7 @@
 # Hi everyone👋
 
 ### 👀 About Me:
-I'm Stanislav (ST0PCHA) Simahin and I like to programming at my spare time.<br>
+I'm Stanislav (st0pcha.) Simahin and I like to programming at my spare time.<br>
 Owner of the MADE Project.<br>
 - ☕️ Currently learning Java.
 
