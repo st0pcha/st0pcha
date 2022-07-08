@@ -3,7 +3,6 @@
 ### 👀 About Me:
 I'm Stanislav (st0pcha.) Simahin and I like to programming at my spare time.<br>
 Owner of the MADE Project.<br>
-- ☕️ Currently learning Java.
 
 
 ### 💬 Connect with me:
@@ -28,10 +27,9 @@ Owner of the MADE Project.<br>
 
 ### ⚙️ Languages and Tools:
 <img align="left" alt="IntelliJ IDEA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />
+<img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" /> 
 <img align="left" alt="Python" width="26px" src="https://i.imgur.com/4pIzF9V.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
-<img align="left" alt="Node.JS" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
-<img align="left" alt="Java" width="26px" src="https://getprogram.net/img/programs/icons/java_228.png" /> 
 <img align="left" alt="SQL" width="26px" src="https://icons-for-free.com/iconfiles/png/512/file+sql+icon-1320183612970878250.png" />
 
 <br />
