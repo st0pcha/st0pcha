@@ -11,7 +11,7 @@
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/st0pcha)
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/st0pcha)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=St0pcha&layout=compact&langs_count=16&theme=github_dark)](https://github.com/st0pcha)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=st0pcha&layout=compact&langs_count=16&theme=github_dark)](https://github.com/st0pcha)
 
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://github.com/st0pcha)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/st0pcha)
