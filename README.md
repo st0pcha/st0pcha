@@ -25,3 +25,5 @@
 [![Visual Studio Code](https://img.shields.io/badge/VSCode-090909?style=for-the-badge&logo=VisualStudioCode)](https://st0pcha.github.io/)
 
 <!-- [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=st0pcha&layout=compact&langs_count=16&theme=github_dark)](https://st0pcha.github.io/) -->
+
+<!-- https://dev.to/envoy_/150-badges-for-github-pnk#made-with -->
