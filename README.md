@@ -1,19 +1,27 @@
-# 👋 Hi there, I'm <a href="https://github.com/st0pcha" target="_blank">Stanislav (st0pcha.) Simahin
-[![Statistics](https://github-readme-stats.vercel.app/api?username=St0pcha&show_icons=true&theme=github_dark)](https://github.com/st0pcha)
+[![Header](./assets/header.png)](https://st0pcha.github.io/)
+
+### 📔 My workspace:
+[![OS](https://img.shields.io/badge/Windows-090909?style=for-the-badge&logo=Windows)](https://st0pcha.github.io)
+[![GPU](https://img.shields.io/badge/GTX_1050Ti-090909?style=for-the-badge&logo=NVIDIA)](https://st0pcha.github.io)
+[![CPU](https://img.shields.io/badge/Ryzen_5_3600x-090909?style=for-the-badge&logo=AMD)](https://st0pcha.github.io)
+[![RAM](https://img.shields.io/badge/16GB_RAM-090909?style=for-the-badge&logo=RAM)](https://st0pcha.github.io)
+[![SSD](https://img.shields.io/badge/480GB_SSD-090909?style=for-the-badge&logo=Samsung)](https://st0pcha.github.io)
+
+<!-- [![Statistics](https://github-readme-stats.vercel.app/api?username=St0pcha&show_icons=true&theme=github_dark)](https://st0pcha.github.io/) -->
 
 ### 💬 Contact with me:
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/st0pcha)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9d4Z3Njm3e)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/this_is_st0pcha)
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/st0pcha)
+[![Discord](https://img.shields.io/badge/Discord-090909?style=for-the-badge&logo=Discord)](https://discord.gg/9d4Z3Njm3e)
+[![Steam](https://img.shields.io/badge/Steam-090909?style=for-the-badge&logo=Steam)](https://steamcommunity.com/id/this_is_st0pcha)
 
 
 ### ⚙️ Languages and Tools:
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/st0pcha)
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/st0pcha)
+[![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=Java)](https://st0pcha.github.io)
+[![Kotlin](https://img.shields.io/badge/Kotlin-090909?style=for-the-badge&logo=Kotlin)](https://st0pcha.github.io)
+[![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python)](https://st0pcha.github.io)
+[![Heroku](https://img.shields.io/badge/Heroku-090909?style=for-the-badge&logo=Heroku)](https://st0pcha.github.io/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)](https://st0pcha.github.io/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IDEA-090909?style=for-the-badge&logo=IntelliJ-IDEA)](https://st0pcha.github.io/)
+[![Visual Studio Code](https://img.shields.io/badge/VSCode-090909?style=for-the-badge&logo=VisualStudioCode)](https://st0pcha.github.io/)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=st0pcha&layout=compact&langs_count=16&theme=github_dark)](https://github.com/st0pcha)
-
-[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://github.com/st0pcha)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/st0pcha)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://github.com/st0pcha)
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/st0pcha)
+<!-- [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=st0pcha&layout=compact&langs_count=16&theme=github_dark)](https://st0pcha.github.io/) -->
