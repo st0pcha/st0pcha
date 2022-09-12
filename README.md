@@ -10,19 +10,19 @@
 <!-- [![Statistics](https://github-readme-stats.vercel.app/api?username=St0pcha&show_icons=true&theme=github_dark)](https://st0pcha.github.io/) -->
 
 ### 💬 Contact with me:
+[![VKontakte](https://img.shields.io/badge/ВКонтакте-090909?style=for-the-badge&logo=vk)](https://vk.com/st0pcha)
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/st0pcha)
 [![Discord](https://img.shields.io/badge/Discord-090909?style=for-the-badge&logo=Discord)](https://discord.gg/9d4Z3Njm3e)
 [![Steam](https://img.shields.io/badge/Steam-090909?style=for-the-badge&logo=Steam)](https://steamcommunity.com/id/this_is_st0pcha)
 
 
 ### ⚙️ Languages and Tools:
-[![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=Java)](https://st0pcha.github.io)
+[![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=java)](https://st0pcha.github.io)
 [![Kotlin](https://img.shields.io/badge/Kotlin-090909?style=for-the-badge&logo=Kotlin)](https://st0pcha.github.io)
 [![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python)](https://st0pcha.github.io)
-[![Heroku](https://img.shields.io/badge/Heroku-090909?style=for-the-badge&logo=Heroku)](https://st0pcha.github.io/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)](https://st0pcha.github.io/)
-[![IntelliJ IDEA](https://img.shields.io/badge/IDEA-090909?style=for-the-badge&logo=IntelliJ-IDEA)](https://st0pcha.github.io/)
-[![Visual Studio Code](https://img.shields.io/badge/VSCode-090909?style=for-the-badge&logo=VisualStudioCode)](https://st0pcha.github.io/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-090909?style=for-the-badge&logo=IntelliJ-IDEA)](https://st0pcha.github.io/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-090909?style=for-the-badge&logo=VisualStudioCode)](https://st0pcha.github.io/)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=st0pcha&layout=compact&langs_count=16&theme=github_dark)](https://st0pcha.github.io/) 
 
