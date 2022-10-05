@@ -2,7 +2,7 @@
 # 👋 Hi, I'm 14 and my name is Stas!
 
 ### 📔 My workspace:
-[![PC](https://img.shields.io/badge/Ryzen_5_3600x_|_16GB_RAM_|_GTX_1050_Ti_|_480GB_SSD-090909?style=for-the-badge&logo=Windows)](https://st0pcha.github.io)<br>
+[![PC](https://img.shields.io/badge/Ryzen_5_3600x_|_16GB_RAM_|_GTX_1050_Ti_|_480GB_SSD_|_240GB_SSD-090909?style=for-the-badge&logo=Windows)](https://st0pcha.github.io)<br>
 
 <!-- [![Statistics](https://github-readme-stats.vercel.app/api?username=St0pcha&show_icons=true&theme=github_dark)](https://st0pcha.github.io/) -->
 
