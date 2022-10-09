@@ -12,11 +12,12 @@
 [![Discord](https://img.shields.io/badge/Discord-090909?style=for-the-badge&logo=Discord)](https://discord.gg/9d4Z3Njm3e)
 [![Steam](https://img.shields.io/badge/Steam-090909?style=for-the-badge&logo=Steam)](https://steamcommunity.com/id/this_is_st0pcha)
 
-
 ### ⚙️ Languages and Tools:
 [![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=Java)](https://st0pcha.github.io)
 [![Kotlin](https://img.shields.io/badge/Kotlin-090909?style=for-the-badge&logo=Kotlin)](https://st0pcha.github.io)
+[![TypeScript](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=TypeScript)](https://st0pcha.github.io)
 [![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python)](https://st0pcha.github.io)
+
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)](https://st0pcha.github.io/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-090909?style=for-the-badge&logo=IntelliJ-IDEA)](https://st0pcha.github.io/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-090909?style=for-the-badge&logo=VisualStudioCode)](https://st0pcha.github.io/)
