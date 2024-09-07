@@ -1,10 +1,14 @@
 ## Hi there 👋
-I am Stanislav Simakhin, people call me Stas. I am Backend Developer.
+I am Stanislav Simakhin, people call me Stas. I am Back-end Developer.
+
+<a href="https://st0pcha.xyz">My site</a>
 
 ### 👀 About me
-- 🌱 I speak English
-- 📚 I'm currently learning frontend
-- 👍 I made the <a href="https://arenammo.com.br">ArenaMMO site</a>
+- 🌱 speak English
+- 📚 currently learning frontend
+- 👍 developer of the <a href="https://arenammo.com.br">ArenaMMO site</a>
+
+
 
 ### ⚙️ Languages and Tools
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/st0pcha)
