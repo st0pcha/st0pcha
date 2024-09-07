@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am Stanislav Simakhin, people call me Stas. I am Back-end Developer.
 
-<a href="https://st0pcha.xyz">My site</a>
+<a href="https://st0pcha.xyz" target="_blank">My site</a>
 
 ### 👀 About me
 - 🌱 speak English
